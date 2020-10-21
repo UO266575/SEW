@@ -68,3 +68,26 @@ nav a{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+footer{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-direction: row;
+}
+
+footer a{
+    align-self: center;
+    margin-left: 50px;
+}
+
+footer p{
+    align-self: center;
+    margin-left: 15px;
+    font-size: 20px;
+    margin-right: 330px;
+}
